@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    font: italic 1.25vmax 'times new roman', serif;
+    background-color: #DBDBDB;
+}
+
+.container {
+    width: 25vw;
+    margin: 18.75vh auto;
+}
+
+.description {
+    text-align: justify;
+    padding-top: 30px;
+}
+
+.author {
+    text-align: right;
+    padding-top: 10px;
+    font: 1.375rem 'Italianno', cursive;
+    letter-spacing: 2px;
+}
+
+.width--full {
+    width: 100%;
+}
