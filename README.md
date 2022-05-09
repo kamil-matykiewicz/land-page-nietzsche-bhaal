@@ -1,0 +1,1 @@
+# A landing page candidate, with kind of a responsive welcoming text and logo, adapting to vieport size changes.
